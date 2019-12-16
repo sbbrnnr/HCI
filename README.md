@@ -1,4 +1,4 @@
 # HCI
 
 TODO:
-+ Prototypen einstellen
++ veganen Prototypen einstellen
