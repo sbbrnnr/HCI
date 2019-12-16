@@ -1,5 +1,6 @@
 FALL 1:
 
++ Ein REHA Patient soll in am 20.12.19 zur REHA gebracht werden. Die Entlassung ist schon sicher. Der Transport kann bereits angefordert werden. Der Patient soll liegend im RTW transportiert werden.
 
 
 FALL 2:
@@ -9,6 +10,7 @@ FALL 2:
 + Sie haben gerade Zeit und sollen vorab schon einmal die Daten eintragen und speichern.
 
 + Es vergeht Zeit, die Entlassung wird bestätigt und soll nun angefordert werden.
+
 
 Fragen:
 
