@@ -20,9 +20,11 @@ FALL 2:
 
 + Es treten Probleme auf und der Patient soll nun sofort (am 17. um 18:00) entlassen werden. Der Patient soll hierdurch mit dem RTW in ein anderes Krankenhaus verlegt werden.
 
-+ Liegendtransport mit RTW und infektiös
++ Liegendtransport mit RTW und infektiös soll angefordert werden.
 
 + Der Transport wird vom RTW wegen Notfall abgesagt.
+
++ Sie sollen den abgesagten Transport neu anfordern.
 
 
 
