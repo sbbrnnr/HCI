@@ -9,7 +9,7 @@ Adolf Heckner bei der Vorstellung seines Weltherrschaftsplanes
 
 FALL 1:
 
-+ Der REHA Patient Tobias Brunner soll in am 20.12.19 zur REHA in der Dr. Gessler Str. 29 gebracht werden. Die Entlassung ist schon sicher. Der Transport kann bereits angefordert werden. Der Patient soll im Taxi mit Rollstuhl transportiert werden.
++ Der REHA Patient Tobias Brunner soll in am 20.12.19 zur REHA gebracht werden. Die Entlassung ist schon sicher. Der Transport kann bereits angefordert werden. Der Patient soll im Taxi mit Rollstuhl transportiert werden.
 
 + Der Patient wurde abgeholt und der Auftrag kann nun mit einem Klick auf "erledigt" abgeschlossen werden.
 
