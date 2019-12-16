@@ -4,7 +4,7 @@ Nach einer langen Dynastie aus vielen Heckners ergriff schließlich Adolf Heckne
 
 Ein besonders tragischer Fall eines solchen Verwundeten passierte in der ersten Angriffswelle auf NeuFrankreich im Jahre 3126. Der tapfere Florian Winter opferte sich für seine komplette Einheit als er mit dem Arsch vorran auf eine neufranzösische Granate sprang. Bedauerlicherweise war dies eine von den Neufranzosen neu entwickelte Granatengeneration deren Außenhülle mit Super-AIDS beschichtet war. Florian Winter wurde als Notfall in das AltRegensburger Bezirksklinikum eingeliefert, nicht ahnend der Folgen die daraus für die gesamte Nation entstehen würden...
 
-![alt text](https://github.com/sbbrnnr/HCI/blob/master/Prototyp/Axure%20Prototyp/adolf_heckner.jpg)
+![Adolf Heckner bei der Vorstellung seines Weltherrschaftsplanes (3125, koloriert)](https://github.com/sbbrnnr/HCI/blob/master/Prototyp/Axure%20Prototyp/adolf_heckner.jpg)
 Adolf Heckner bei der Vorstellung seines Weltherrschaftsplanes (3125, koloriert)
 
 FALL 1:
