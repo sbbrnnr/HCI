@@ -22,7 +22,7 @@ FALL 2:
 
 + Liegendtransport mit RTW und infektiös
 
-+ Es treten weitere Probleme auf und der Patient ist nicht mehr transportfähig. Der Transport soll abgesagt werden.
++ Der Transport wird vom RTW wegen Notfall abgesagt.
 
 
 
