@@ -5,6 +5,7 @@ Ein besonders tragischer Fall eines solchen Verwundeten passierte in der ersten 
 FALL 1:
 
 + Der REHA Patient Tobias Brunner soll in am 20.12.19 zur REHA gebracht werden. Die Entlassung ist schon sicher. Der Transport kann bereits angefordert werden. Der Patient soll im Taxi mit Rollstuhl transportiert werden.
+
 + Der Patient wurde abgeholt und der Auftrag kann nun mit einem Klick auf "erledigt" abgeschlossen werden.
 
 
@@ -12,9 +13,16 @@ FALL 2:
 
 + Florian Winter kommt zu einer Routine OP am 17.12.2019.
 	Er soll vorraussichtlich in zwei Tagen, am 19.12.2019 um 09:00 entlassen werden.
+	
 + Sie haben gerade Zeit und sollen vorab schon einmal die Daten eintragen und speichern.
 
-+ Es treten Probleme auf und der Patient soll nun sofort entlassen werden. Der Patient soll hierdurch mit dem RTW in ein anderes Krankenhaus verlegt werden.
++ Der Patient soll liegend mit KTW transportiert werden
+
++ Es treten Probleme auf und der Patient soll nun sofort (am 17. um 18:00) entlassen werden. Der Patient soll hierdurch mit dem RTW in ein anderes Krankenhaus verlegt werden.
+
++ Liegendtransport mit RTW und infektiös
+
++ Es treten weitere Probleme auf und der Patient ist nicht mehr transportfähig. Der Transport soll abgesagt werden.
 
 
 
