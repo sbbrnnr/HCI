@@ -7,6 +7,16 @@ Ein besonders tragischer Fall eines solchen Verwundeten passierte in der ersten 
 ![Adolf Heckner bei der Vorstellung seines Weltherrschaftsplanes (3125, koloriert)](https://github.com/sbbrnnr/HCI/blob/master/Prototyp/Axure%20Prototyp/adolf_heckner.jpg)
 Adolf Heckner bei der Vorstellung seines Weltherrschaftsplanes (3125, koloriert)
 
+
+FALL 0:
+
++ (Aufwärmen) Die Transporte sind in verschiedene Stati unterteilt. Filtern Sie einmal nach jeder Kategorie.
+
+FALL 0.5:
+
++ Suchen Sie nach Florian Winter und bearbeiten Sie diesen Transport
+
+
 FALL 1:
 
 + Der REHA Patient Tobias Brunner soll in am 20.12.19 zur REHA gebracht werden. Die Entlassung ist schon sicher. Der Transport kann bereits angefordert werden. Der Patient soll im Taxi mit Rollstuhl transportiert werden.
