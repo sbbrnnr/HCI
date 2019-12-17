@@ -14,7 +14,8 @@ Adolf Heckner bei der Vorstellung seines Weltherrschaftsplanes (3125, koloriert)
 
 ##FALL 0.5:
 
-+ Suchen Sie nach Florian Winter und bearbeiten Sie diesen Transport
++ Suchen Sie nach Florian Winter und ändern Sie das Entlassungsdatum auf den 21.12.2019.
++ Speichern Sie anschließend den geänderten Tranpsort.
 
 
 ##FALL 1:
