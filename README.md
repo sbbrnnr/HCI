@@ -1,13 +1,11 @@
-# HCI
-
-TODO:
+## Todo:
 - [ ] Präsentation (Deadline 20.01.2020)
 - [ ] Dokumentation (Deadline 31.01.2020)
 
-## Präsentation:
+###### Präsentation:
 - Montag nach Inhalt fragen
 
-## Dokumentation:
+###### Dokumentation:
 - [ ] Überblick Projekttimeline und Projektphasen
 - [ ] Arbeitsaufteilung innerhalb des Projektteams: Wer hat was, wann und wie
 beigetragen?
