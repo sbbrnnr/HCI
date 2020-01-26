@@ -1,44 +1,47 @@
 \babel@toc {ngerman}{}
-\contentsline {section}{\numberline {1}Einleitung}{5}{section.1}%
-\contentsline {section}{\numberline {2}Projektbeschreibung}{5}{section.2}%
-\contentsline {section}{\numberline {3}Methoden}{6}{section.3}%
-\contentsline {section}{\numberline {4}Evaluation des Nutzungskontexts}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Personas}{9}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Krankenschwester (Bezirksklinikum)}{9}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Arzt}{9}{subsubsection.4.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.3}Fahrdienst (Bezirksklinikum)}{9}{subsubsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.2}Interview \& Feldbeobachtung}{10}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Anforderungsmanagement}{10}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Anforderungsanalyse}{10}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Anforderungsbeschreibung}{11}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Wettbewerbsanalyse}{13}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Ciris}{13}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}CareMan}{15}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Recare}{15}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Fazit}{16}{subsection.6.4}%
-\contentsline {section}{\numberline {7}Sketching}{16}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Papierprototyp – Florian Klamer}{16}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Papierprototyp – Felix Richter}{17}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Papierprototyp – Thomas Zenger}{19}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Papierprototyp – Tobias Winter}{20}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Papierprototyp – Sebastian Brunner}{21}{subsection.7.5}%
-\contentsline {section}{\numberline {8}Axure Prototyp}{22}{section.8}%
-\contentsline {subsection}{\numberline {8.1}gemeinsamer Axure Prototyp}{23}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}Startseite}{23}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}Navigationsleiste}{23}{subsubsection.8.1.2}%
-\contentsline {subsubsection}{\numberline {8.1.3}Patiententransport - Karte}{24}{subsubsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.4}Suchleiste}{25}{subsubsection.8.1.4}%
-\contentsline {subsubsection}{\numberline {8.1.5}Patientensuche und Transportschein}{25}{subsubsection.8.1.5}%
-\contentsline {subsubsection}{\numberline {8.1.6}Modifizierter Transportschein}{26}{subsubsection.8.1.6}%
-\contentsline {subsection}{\numberline {8.2}Prototyp Vorstellung (Evaluieren der Gestaltungslösung anhand der Nutzungsanforderung)}{27}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}St. Josef}{27}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}Bezirksklinikum}{27}{subsubsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.3}Feedback aus den Krankenhäusern}{27}{subsection.8.3}%
-\contentsline {subsubsection}{\numberline {8.3.1}Usetest Bezirksklinikum}{27}{subsubsection.8.3.1}%
-\contentsline {paragraph}{\nonumberline Fall 0:}{28}{section*.8}%
-\contentsline {paragraph}{\nonumberline Fall 1:}{28}{section*.9}%
-\contentsline {paragraph}{\nonumberline Fall 2:}{28}{section*.10}%
-\contentsline {paragraph}{\nonumberline Fall 3:}{29}{section*.11}%
-\contentsline {paragraph}{\nonumberline Fazit nach dem Usertest:}{29}{section*.12}%
+\contentsline {section}{\numberline {1}Einleitung}{4}{section.1}%
+\contentsline {section}{\numberline {2}Projektbeschreibung}{4}{section.2}%
+\contentsline {section}{\numberline {3}Methoden}{5}{section.3}%
+\contentsline {section}{\numberline {4}Evaluation des Nutzungskontexts}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Personas}{8}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Krankenschwester (Bezirksklinikum)}{8}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Arzt}{8}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Fahrdienst (Bezirksklinikum)}{8}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}Interview \& Feldbeobachtung}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Anforderungsmanagement}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Anforderungsanalyse}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Anforderungsbeschreibung}{10}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Wettbewerbsanalyse}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Ciris}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}CareMan}{14}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Recare}{14}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Fazit}{15}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Sketching}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Papierprototyp – Florian Klamer}{15}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Papierprototyp – Felix Richter}{16}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Papierprototyp – Thomas Zenger}{18}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Papierprototyp – Tobias Winter}{19}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Papierprototyp – Sebastian Brunner}{20}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Axure Prototyp}{21}{section.8}%
+\contentsline {subsection}{\numberline {8.1}gemeinsamer Axure Prototyp}{22}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Startseite}{22}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Navigationsleiste}{22}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Patiententransport - Karte}{23}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Suchleiste}{24}{subsubsection.8.1.4}%
+\contentsline {subsubsection}{\numberline {8.1.5}Patientensuche und Transportschein}{24}{subsubsection.8.1.5}%
+\contentsline {subsubsection}{\numberline {8.1.6}Modifizierter Transportschein}{25}{subsubsection.8.1.6}%
+\contentsline {subsection}{\numberline {8.2}Usabilitytests in den Krankenhäusern}{26}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Usabilitytest St. Josef}{26}{subsubsection.8.2.1}%
+\contentsline {paragraph}{\nonumberline Fall 0:}{26}{section*.8}%
+\contentsline {paragraph}{\nonumberline Fall 1:}{27}{section*.9}%
+\contentsline {paragraph}{\nonumberline Fall 2:}{27}{section*.10}%
+\contentsline {paragraph}{\nonumberline Fall 3:}{27}{section*.11}%
+\contentsline {paragraph}{\nonumberline Fazit St. Josef:}{27}{section*.12}%
+\contentsline {subsubsection}{\numberline {8.2.2}Usabilitytest Bezirksklinikum}{27}{subsubsection.8.2.2}%
+\contentsline {paragraph}{\nonumberline Fall 0:}{28}{section*.13}%
+\contentsline {paragraph}{\nonumberline Fall 1:}{28}{section*.14}%
+\contentsline {paragraph}{\nonumberline Fall 2:}{28}{section*.15}%
+\contentsline {paragraph}{\nonumberline Fall 3:}{29}{section*.16}%
+\contentsline {paragraph}{\nonumberline Fazit nach dem Usertest:}{29}{section*.17}%
 \contentsline {section}{\numberline {9}Finaler Axure Prototyp}{30}{section.9}%
 \contentsline {section}{\numberline {10}Fazit}{32}{section.10}%

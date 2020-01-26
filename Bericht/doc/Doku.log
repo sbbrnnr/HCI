@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.25)  25 JAN 2020 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.25)  26 JAN 2020 12:20
 entering extended mode
 **./Doku.tex
 (Doku.tex
@@ -1287,7 +1287,7 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \tf@toc=\write4
 \openout4 = `Doku.toc'.
 
- [2] [3] (Doku.lof
+ [2] (Doku.lof
 Overfull \hbox (5.2826pt too wide) in paragraph at lines 2--2
  [][] [][]\T1/lmr/m/n/12 Bild 1 aus DIN EN ISO 9241-210: Wech-sel-sei-ti-ge Ab-
 hän-gig-keit mensch- 
@@ -1297,7 +1297,7 @@ hän-gig-keit mensch-
 \tf@lof=\write5
 \openout5 = `Doku.lof'.
 
- [4]
+ [3]
 Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
@@ -1307,8 +1307,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-[5]
-<Bilder/9241-210.png, id=233, 607.26875pt x 418.56375pt>
+[4]
+<Bilder/9241-210.png, id=222, 607.26875pt x 418.56375pt>
 File: Bilder/9241-210.png Graphic file (type png)
 <use Bilder/9241-210.png>
 Package pdftex.def Info: Bilder/9241-210.png  used on input line 136.
@@ -1336,7 +1336,7 @@ Package svg Warning: You didn't enable `shell escape' (or `write18')
 Package svg Info: Last page of `./svg-inkscape/ProjektplanTeil1_svg-tex.pdf' is
  1 on input line 148.
 (svg-inkscape/ProjektplanTeil1_svg-tex.pdf_tex
-<./svg-inkscape/ProjektplanTeil1_svg-tex.pdf, id=236, page=1, 554.18762pt x 575
+<./svg-inkscape/ProjektplanTeil1_svg-tex.pdf, id=225, page=1, 554.18762pt x 575
 .74864pt>
 File: ./svg-inkscape/ProjektplanTeil1_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/ProjektplanTeil1_svg-tex.pdf, page 1>
@@ -1354,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--152
 
  []
 
-[6 <./Bilder/9241-210.png>]
+[5 <./Bilder/9241-210.png>]
 
 Package svg Warning: You didn't enable `shell escape' (or `write18')
 (svg)                so it wasn't possible to launch the Inkscape export
@@ -1363,7 +1363,7 @@ Package svg Warning: You didn't enable `shell escape' (or `write18')
 Package svg Info: Last page of `./svg-inkscape/ProjektplanTeil2_svg-tex.pdf' is
  1 on input line 155.
 (svg-inkscape/ProjektplanTeil2_svg-tex.pdf_tex
-<./svg-inkscape/ProjektplanTeil2_svg-tex.pdf, id=243, page=1, 556.47743pt x 210
+<./svg-inkscape/ProjektplanTeil2_svg-tex.pdf, id=232, page=1, 556.47743pt x 210
 .18369pt>
 File: ./svg-inkscape/ProjektplanTeil2_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/ProjektplanTeil2_svg-tex.pdf, page 1>
@@ -1389,7 +1389,7 @@ Package svg Warning: You didn't enable `shell escape' (or `write18')
 Package svg Info: Last page of `./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf' i
 s 1 on input line 162.
 (svg-inkscape/Arbeitsaufteilung_svg-tex.pdf_tex
-<./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf, id=245, page=1, 586.35075pt x 48
+<./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf, id=234, page=1, 586.35075pt x 48
 7.21869pt>
 File: ./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf, page 1>
@@ -1407,13 +1407,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--166
 
  []
 
-[7 <./svg-inkscape/ProjektplanTeil1_svg-tex.pdf> <./svg-inkscape/ProjektplanTei
+[6 <./svg-inkscape/ProjektplanTeil1_svg-tex.pdf> <./svg-inkscape/ProjektplanTei
 l2_svg-tex.pdf
 
 pdfTeX warning: pdflatex.exe (file ./svg-inkscape/ProjektplanTeil2_svg-tex.pdf)
 : PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Bilder/trelloboard.png, id=260, 1445.4pt x 683.55376pt>
+<Bilder/trelloboard.png, id=248, 1445.4pt x 683.55376pt>
 File: Bilder/trelloboard.png Graphic file (type png)
 <use Bilder/trelloboard.png>
 Package pdftex.def Info: Bilder/trelloboard.png  used on input line 169.
@@ -1429,7 +1429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--173
 
  []
 
-[8 <./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf> <./Bilder/trelloboard.png>]
+[7 <./svg-inkscape/Arbeitsaufteilung_svg-tex.pdf> <./Bilder/trelloboard.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 76.
 
@@ -1445,7 +1445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-[9]
+[8]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 97.
  ("C:\Users\fklam\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
@@ -1455,12 +1455,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--335
 
  []
 
-[10] [11]
+[9] [10]
 Underfull \hbox (badness 10000) in paragraph at lines 336--401
 
  []
 
-[12]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 444--445
 
  []
@@ -1470,7 +1470,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
-<Bilder/ciris.png, id=356, 192.72pt x 144.54pt>
+<Bilder/ciris.png, id=345, 192.72pt x 144.54pt>
 File: Bilder/ciris.png Graphic file (type png)
 <use Bilder/ciris.png>
 Package pdftex.def Info: Bilder/ciris.png  used on input line 450.
@@ -1480,8 +1480,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 451.
 See the caption package documentation for explanation.
 
-[13] [14 <./Bilder/ciris.png>]
-<Bilder/careman.jpg, id=366, 1185.42876pt x 584.1825pt>
+[12] [13 <./Bilder/ciris.png>]
+<Bilder/careman.jpg, id=355, 1185.42876pt x 584.1825pt>
 File: Bilder/careman.jpg Graphic file (type jpg)
 <use Bilder/careman.jpg>
 Package pdftex.def Info: Bilder/careman.jpg  used on input line 482.
@@ -1512,8 +1512,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--506
 
  []
 
-[15 <./Bilder/careman.jpg>]
-<Bilder/prototypFlo.pdf, id=371, 576.7146pt x 399.6531pt>
+[14 <./Bilder/careman.jpg>]
+<Bilder/prototypFlo.pdf, id=360, 576.7146pt x 399.6531pt>
 File: Bilder/prototypFlo.pdf Graphic file (type pdf)
 <use Bilder/prototypFlo.pdf>
 Package pdftex.def Info: Bilder/prototypFlo.pdf  used on input line 526.
@@ -1524,8 +1524,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 527.
 See the caption package documentation for explanation.
 
-[16 <./Bilder/prototypFlo.pdf>]
-<Bilder/uebersicht.jpg, id=383, 2811.50375pt x 2030.58624pt>
+[15 <./Bilder/prototypFlo.pdf>]
+<Bilder/uebersicht.jpg, id=372, 2811.50375pt x 2030.58624pt>
 File: Bilder/uebersicht.jpg Graphic file (type jpg)
 <use Bilder/uebersicht.jpg>
 Package pdftex.def Info: Bilder/uebersicht.jpg  used on input line 538.
@@ -1541,23 +1541,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 543--544
 
  []
 
-<Bilder/hinzufuegen.jpg, id=384, 1952.29375pt x 1109.14375pt>
+[16 <./Bilder/uebersicht.jpg>]
+<Bilder/hinzufuegen.jpg, id=377, 1952.29375pt x 1109.14375pt>
 File: Bilder/hinzufuegen.jpg Graphic file (type jpg)
 <use Bilder/hinzufuegen.jpg>
 Package pdftex.def Info: Bilder/hinzufuegen.jpg  used on input line 547.
 (pdftex.def)             Requested size: 341.43437pt x 193.96767pt.
 
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 548.
 See the caption package documentation for explanation.
 
-[17 <./Bilder/uebersicht.jpg>]
-<Bilder/flaxxy.jpg, id=389, 1651.16875pt x 2307.62125pt>
+<Bilder/flaxxy.jpg, id=378, 1651.16875pt x 2307.62125pt>
 File: Bilder/flaxxy.jpg Graphic file (type jpg)
 <use Bilder/flaxxy.jpg>
 Package pdftex.def Info: Bilder/flaxxy.jpg  used on input line 555.
 (pdftex.def)             Requested size: 170.71393pt x 238.55736pt.
-
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 556.
@@ -1588,7 +1588,7 @@ Overfull \hbox (5.22212pt too wide) in paragraph at lines 552--563
 []$   $[]$ 
  []
 
-<Bilder/loginpage.png, id=390, 545.03625pt x 478.78876pt>
+<Bilder/loginpage.png, id=379, 545.03625pt x 478.78876pt>
 File: Bilder/loginpage.png Graphic file (type png)
 <use Bilder/loginpage.png>
 Package pdftex.def Info: Bilder/loginpage.png  used on input line 567.
@@ -1598,7 +1598,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 568.
 See the caption package documentation for explanation.
 
-<Bilder/mainpage.png, id=391, 546.04pt x 277.035pt>
+<Bilder/mainpage.png, id=380, 546.04pt x 277.035pt>
 File: Bilder/mainpage.png Graphic file (type png)
 <use Bilder/mainpage.png>
 Package pdftex.def Info: Bilder/mainpage.png  used on input line 573.
@@ -1608,8 +1608,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 574.
 See the caption package documentation for explanation.
 
-[18 <./Bilder/hinzufuegen.jpg> <./Bilder/flaxxy.jpg>]
-<Bilder/mainpage_1.png, id=396, 546.04pt x 277.035pt>
+[17 <./Bilder/hinzufuegen.jpg> <./Bilder/flaxxy.jpg>]
+<Bilder/mainpage_1.png, id=385, 546.04pt x 277.035pt>
 File: Bilder/mainpage_1.png Graphic file (type png)
 <use Bilder/mainpage_1.png>
 Package pdftex.def Info: Bilder/mainpage_1.png  used on input line 581.
@@ -1620,7 +1620,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 582.
 See the caption package documentation for explanation.
 
-<Bilder/verordnungpage.png, id=397, 545.03625pt x 276.03125pt>
+<Bilder/verordnungpage.png, id=386, 545.03625pt x 276.03125pt>
 File: Bilder/verordnungpage.png Graphic file (type png)
 <use Bilder/verordnungpage.png>
 Package pdftex.def Info: Bilder/verordnungpage.png  used on input line 587.
@@ -1630,7 +1630,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 588.
 See the caption package documentation for explanation.
 
-<Bilder/PrototypTobias1.png, id=398, 452.69125pt x 566.115pt>
+<Bilder/PrototypTobias1.png, id=387, 452.69125pt x 566.115pt>
 File: Bilder/PrototypTobias1.png Graphic file (type png)
 <use Bilder/PrototypTobias1.png>
 Package pdftex.def Info: Bilder/PrototypTobias1.png  used on input line 599.
@@ -1640,7 +1640,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 600.
 See the caption package documentation for explanation.
 
-<Bilder/PrototypTobias2.png, id=399, 425.59pt x 581.17125pt>
+<Bilder/PrototypTobias2.png, id=388, 425.59pt x 581.17125pt>
 File: Bilder/PrototypTobias2.png Graphic file (type png)
 <use Bilder/PrototypTobias2.png>
 Package pdftex.def Info: Bilder/PrototypTobias2.png  used on input line 605.
@@ -1650,9 +1650,9 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 606.
 See the caption package documentation for explanation.
 
-[19 <./Bilder/loginpage.png> <./Bilder/mainpage.png> <./Bilder/mainpage_1.png> 
+[18 <./Bilder/loginpage.png> <./Bilder/mainpage.png> <./Bilder/mainpage_1.png> 
 <./Bilder/verordnungpage.png>]
-<Bilder/PrototypTobias3.png, id=409, 385.44pt x 210.7875pt>
+<Bilder/PrototypTobias3.png, id=397, 385.44pt x 210.7875pt>
 File: Bilder/PrototypTobias3.png Graphic file (type png)
 <use Bilder/PrototypTobias3.png>
 Package pdftex.def Info: Bilder/PrototypTobias3.png  used on input line 613.
@@ -1678,7 +1678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 622--623
 
  []
 
-[20 <./Bilder/PrototypTobias1.png> <./Bilder/PrototypTobias2.png> <./Bilder/Pro
+[19 <./Bilder/PrototypTobias1.png> <./Bilder/PrototypTobias2.png> <./Bilder/Pro
 totypTobias3.png>]
 
 Package svg Warning: You didn't enable `shell escape' (or `write18')
@@ -1688,7 +1688,7 @@ Package svg Warning: You didn't enable `shell escape' (or `write18')
 Package svg Info: Last page of `./svg-inkscape/PrototypeBrunner_svg-tex.pdf' is
  1 on input line 629.
 (svg-inkscape/PrototypeBrunner_svg-tex.pdf_tex
-<./svg-inkscape/PrototypeBrunner_svg-tex.pdf, id=415, page=1, 573.0409pt x 213.
+<./svg-inkscape/PrototypeBrunner_svg-tex.pdf, id=404, page=1, 573.0409pt x 213.
 04594pt>
 File: ./svg-inkscape/PrototypeBrunner_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/PrototypeBrunner_svg-tex.pdf, page 1>
@@ -1711,8 +1711,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 640--641
 
  []
 
-[21 <./svg-inkscape/PrototypeBrunner_svg-tex.pdf>]
-<Bilder/ap1Startseite.png, id=425, 827.82pt x 866.583pt>
+[20 <./svg-inkscape/PrototypeBrunner_svg-tex.pdf>]
+<Bilder/ap1Startseite.png, id=414, 827.82pt x 866.583pt>
 File: Bilder/ap1Startseite.png Graphic file (type png)
 <use Bilder/ap1Startseite.png>
 Package pdftex.def Info: Bilder/ap1Startseite.png  used on input line 650.
@@ -1723,8 +1723,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 651.
 See the caption package documentation for explanation.
 
-[22]
-<Bilder/ap1Nav.png, id=431, 934.24031pt x 70.76437pt>
+[21]
+<Bilder/ap1Nav.png, id=420, 934.24031pt x 70.76437pt>
 File: Bilder/ap1Nav.png Graphic file (type png)
 <use Bilder/ap1Nav.png>
 Package pdftex.def Info: Bilder/ap1Nav.png  used on input line 660.
@@ -1740,8 +1740,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 665--666
 
  []
 
-[23 <./Bilder/ap1Startseite.png> <./Bilder/ap1Nav.png>]
-<Bilder/ap1Card.png, id=436, 1806.75pt x 828.09375pt>
+[22 <./Bilder/ap1Startseite.png> <./Bilder/ap1Nav.png>]
+<Bilder/ap1Card.png, id=425, 1806.75pt x 828.09375pt>
 File: Bilder/ap1Card.png Graphic file (type png)
 <use Bilder/ap1Card.png>
 Package pdftex.def Info: Bilder/ap1Card.png  used on input line 676.
@@ -1762,8 +1762,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 687--688
 
  []
 
-[24 <./Bilder/ap1Card.png>]
-<Bilder/ap1Search.png, id=441, 1400.98407pt x 134.00063pt>
+[23 <./Bilder/ap1Card.png>]
+<Bilder/ap1Search.png, id=430, 1400.98407pt x 134.00063pt>
 File: Bilder/ap1Search.png Graphic file (type png)
 <use Bilder/ap1Search.png>
 Package pdftex.def Info: Bilder/ap1Search.png  used on input line 708.
@@ -1774,7 +1774,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 709.
 See the caption package documentation for explanation.
 
-<Bilder/ap1Frame2.png, id=442, 1088.56688pt x 675.27281pt>
+<Bilder/ap1Frame2.png, id=431, 1088.56688pt x 675.27281pt>
 File: Bilder/ap1Frame2.png Graphic file (type png)
 <use Bilder/ap1Frame2.png>
 Package pdftex.def Info: Bilder/ap1Frame2.png  used on input line 718.
@@ -1789,8 +1789,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 723--724
 
  []
 
-[25 <./Bilder/ap1Search.png> <./Bilder/ap1Frame2.png>]
-<Bilder/Krankentransportmodifiziert.png, id=449, 421.18956pt x 662.57137pt>
+[24 <./Bilder/ap1Search.png> <./Bilder/ap1Frame2.png>]
+<Bilder/Krankentransportmodifiziert.png, id=437, 421.18956pt x 662.57137pt>
 File: Bilder/Krankentransportmodifiziert.png Graphic file (type png)
 <use Bilder/Krankentransportmodifiziert.png>
 Package pdftex.def Info: Bilder/Krankentransportmodifiziert.png  used on input 
@@ -1807,23 +1807,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 735--736
 
  []
 
-[26 <./Bilder/Krankentransportmodifiziert.png>]
+[25 <./Bilder/Krankentransportmodifiziert.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 737--738
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 742--743
+Underfull \hbox (badness 10000) in paragraph at lines 743--746
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 744--745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 747--748
+Underfull \hbox (badness 10000) in paragraph at lines 746--748
 
  []
 
@@ -1833,149 +1828,194 @@ Underfull \hbox (badness 10000) in paragraph at lines 749--750
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 751--753
+
+ []
+
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 753--755
 
  []
 
-[27]
+
 Underfull \hbox (badness 10000) in paragraph at lines 756--757
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 758--759
+Underfull \hbox (badness 10000) in paragraph at lines 757--759
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 762--764
+Underfull \hbox (badness 10000) in paragraph at lines 760--761
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 767--769
+Underfull \hbox (badness 10000) in paragraph at lines 762--763
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--771
+Underfull \hbox (badness 10000) in paragraph at lines 765--767
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 772--773
+Underfull \hbox (badness 10000) in paragraph at lines 771--772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 774--776
+Underfull \hbox (badness 10000) in paragraph at lines 773--774
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 777--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 777--778
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 798--800
 
  []
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 781--783
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 784--785
+Underfull \hbox (badness 10000) in paragraph at lines 805--807
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 786--787
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--789
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 790--791
+Underfull \hbox (badness 10000) in paragraph at lines 812--813
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 792--793
+Underfull \hbox (badness 10000) in paragraph at lines 814--815
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 796--798
+Underfull \hbox (badness 10000) in paragraph at lines 816--817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 820--822
 
  []
 
 [29]
-<Bilder/patsearch1.png, id=472, 331.2375pt x 158.09062pt>
+<Bilder/patsearch1.png, id=470, 331.2375pt x 158.09062pt>
 File: Bilder/patsearch1.png Graphic file (type png)
 <use Bilder/patsearch1.png>
-Package pdftex.def Info: Bilder/patsearch1.png  used on input line 804.
+Package pdftex.def Info: Bilder/patsearch1.png  used on input line 828.
 (pdftex.def)             Requested size: 136.57635pt x 65.18423pt.
-<Bilder/patsearch2.png, id=473, 331.2375pt x 158.09062pt>
+<Bilder/patsearch2.png, id=471, 331.2375pt x 158.09062pt>
 File: Bilder/patsearch2.png Graphic file (type png)
 <use Bilder/patsearch2.png>
-Package pdftex.def Info: Bilder/patsearch2.png  used on input line 805.
+Package pdftex.def Info: Bilder/patsearch2.png  used on input line 829.
 (pdftex.def)             Requested size: 136.57635pt x 65.18423pt.
-<Bilder/patsearch3.png, id=474, 325.215pt x 158.09062pt>
+<Bilder/patsearch3.png, id=472, 325.215pt x 158.09062pt>
 File: Bilder/patsearch3.png Graphic file (type png)
 <use Bilder/patsearch3.png>
-Package pdftex.def Info: Bilder/patsearch3.png  used on input line 806.
+Package pdftex.def Info: Bilder/patsearch3.png  used on input line 830.
 (pdftex.def)             Requested size: 136.57635pt x 66.39278pt.
-<Bilder/form.png, id=475, 391.4625pt x 435.12563pt>
+<Bilder/form.png, id=473, 391.4625pt x 435.12563pt>
 File: Bilder/form.png Graphic file (type png)
 <use Bilder/form.png>
-Package pdftex.def Info: Bilder/form.png  used on input line 814.
+Package pdftex.def Info: Bilder/form.png  used on input line 838.
 (pdftex.def)             Requested size: 341.43437pt x 379.53888pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 815.
+(caption)                particular \caption on input line 839.
 See the caption package documentation for explanation.
 
 [30 <./Bilder/patsearch1.png> <./Bilder/patsearch2.png> <./Bilder/patsearch3.pn
 g>]
-Underfull \hbox (badness 10000) in paragraph at lines 819--820
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
 
  []
 
-<Bilder/pat1.png, id=487, 802.49812pt x 501.37312pt>
+<Bilder/pat1.png, id=485, 802.49812pt x 501.37312pt>
 File: Bilder/pat1.png Graphic file (type png)
 <use Bilder/pat1.png>
-Package pdftex.def Info: Bilder/pat1.png  used on input line 823.
+Package pdftex.def Info: Bilder/pat1.png  used on input line 847.
 (pdftex.def)             Requested size: 426.79135pt x 266.65218pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 824.
+(caption)                particular \caption on input line 848.
 See the caption package documentation for explanation.
 
 [31 <./Bilder/form.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 831.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 855.
  [32 <./Bilder/pat1.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 831.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 855.
 
 (Doku.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 831.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 831.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 855.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 855.
 Package rerunfilecheck Info: File `Doku.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 831.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 855.
  ) 
 Here is how much of TeX's memory you used:
- 27177 strings out of 492482
- 493807 string characters out of 3121575
+ 27171 strings out of 492482
+ 493724 string characters out of 3121575
  793105 words of memory out of 3000000
- 31009 multiletter control sequences out of 15000+200000
+ 31000 multiletter control sequences out of 15000+200000
  579695 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,11n,87p,10101b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1990,9 +2030,9 @@ ublic/lm/lmr8.pfb><C:/Users/fklam/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/lm/lmri12.pfb><C:/Users/fklam/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmssbx10.pfb><C:/Users/fklam/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/lm/lmtt12.pfb>
-Output written on Doku.pdf (32 pages, 9300820 bytes).
+Output written on Doku.pdf (32 pages, 9301712 bytes).
 PDF statistics:
- 667 PDF objects out of 1000 (max. 8388607)
- 113 named destinations out of 1000 (max. 500000)
- 480 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 660 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 464 words of extra memory for PDF output out of 10000 (max. 10000000)
 
