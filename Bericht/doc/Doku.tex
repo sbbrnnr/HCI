@@ -91,8 +91,8 @@
 \begin{tabular}{p{4cm}p{4cm}p{4cm}}
 Eingereicht von:	&Brunner Sebastian		&3130364\\
 				&Klamer Florian		&3109090\\
-				&Richter Felix			&\\
-				&Winter Tobias			&\\
+				&Richter Felix			&3093827\\
+				&Winter Tobias			&3148110\\
 				&Zenger Thomas		&3073975\\
 \end{tabular}\\[0.5em]
 \begin{tabular}{p{4cm}p{6cm}}
@@ -524,6 +524,8 @@ Auf dem Markt existieren ähnliche Systeme, deren Fokus sich an manchen Stellen 
 \section{Sketching}
 Nachdem wir die Anforderungen für unser Zielsystem festgelegt und die Konkurrenzprodukte analysiert hatten, vereinbarten wir die individuelle Erstellung von Papierprototypen. Beim nächsten Termin hatte jedes Teammitglied etwa fünf Minuten Zeit seine Umsetzung den anderen vorzustellen. Danach gab es jeweils eine kurze Feedbackrunde, in welcher die positiven und negativen Aspekte der Umsetzung diskutiert wurden. Wir einigten uns schließlich auf gemeinsame Lösungsvorstellungen und überarbeiteten unsere Prototypen in einer zweiten Iteration. Die Änderungen wurden im Anschluss daran erneut für jeweils fünf Minuten diskutiert. Nach der zweiten Iteration skizzieren wir einen gemeinsamen Lösungsansatz in draw.io. Dieser diente später als Grundlage für die finale Umsetzung in Axure.
 \subsection{Papierprototyp – Florian Klamer}
+\subsubsection*{Übersichtsseite:}
+Die Übersichtsseite meines Papierprototyps zeigt alle bereits erstellten und angeforderten Fahrten. Die Spalten der Übersicht zeigen verschiedene Details der Einträge wie z.B: Name der zu transportierenden Person, Status der Fahrt und die geplanten Zeiten. Ich habe versucht möglichst viel Information möglichst einfach und übersichtlich darzustellen. Dazu haben ich nach Möglichkeit viele sprechende Symbole und Farben verwendet. Die verschiedenen Farben der Zeilen, zeigen die Status der Fahrten. So heißt eine grüne Markierung, dass die Fahrt vom Fahrtunternehmen angenommen ist und bis jetzt pünktlich ist. Gelb bedeutet, dass die Fahrt zwar vom Fahrtunternehmer angenommen wurde, dieser aber zu spät kommen wird.\\
 \begin{center}
 \begin{minipage}[b]{0.7\textwidth}
 	\centering
@@ -532,8 +534,8 @@ Nachdem wir die Anforderungen für unser Zielsystem festgelegt und die Konkurren
 	\label{img:klamer}
 \end{minipage}
 \end{center}
-Die Übersichtsseite meines Papierprototyps zeigt alle bereits erstellten und angeforderten Fahrten. Die Spalten der Übersicht zeigen verschiedene Details der Einträge wie z.B: Name der zu transportierenden Person, Status der Fahrt und die geplanten Zeiten. Ich habe versucht möglichst viel Information möglichst einfach und übersichtlich darzustellen. Dazu haben ich nach Möglichkeit viele sprechende Symbole und Farben verwendet. Die verschiedenen Farben der Zeilen, zeigen die Status der Fahrten. So heißt eine grüne Markierung, dass die Fahrt vom Fahrtunternehmen angenommen ist und bis jetzt pünktlich ist. Gelb bedeutet, dass die Fahrt zwar vom Fahrtunternehmer angenommen wurde, dieser aber zu spät kommen wird.\\
-klickt der Benutzer auf den „Transport erstellen“ Button, kommt man zur zweiten Ansicht, der Detailansicht. Hier kann man auf der linken Seite nach einem Patienten suchen. Dazu kann er den Namen oder die Patientennummer verwenden. Nachdem man sich für den richtigen entschieden hat, erscheint rechts der Transportschein, soweit wie möglich aus bekannten Daten vorausgefüllt. Nun kann sich der Benutzer entscheiden die Fahrt anzufordern, zu speichern und so für später bereit zu haben oder den Transportschein zu drucken. Danach gelangt er wieder auf die Übersichtsseite, wo nun die neue Fahrt aufgeführt wird.\\
+\subsubsection*{Transport erstellen / Detailseite:}
+Klickt der Benutzer auf den „Transport erstellen“ Button, kommt man zur zweiten Ansicht, der Detailansicht. Hier kann man auf der linken Seite nach einem Patienten suchen. Dazu kann er den Namen oder die Patientennummer verwenden. Nachdem man sich für den richtigen entschieden hat, erscheint rechts der Transportschein, soweit wie möglich aus bekannten Daten vorausgefüllt. Nun kann sich der Benutzer entscheiden die Fahrt anzufordern, zu speichern und so für später bereit zu haben oder den Transportschein zu drucken. Danach gelangt er wieder auf die Übersichtsseite, wo nun die neue Fahrt aufgeführt wird.\\
 Ursprünglich hatte ich noch eine dritte Ansicht, auf dem Bild unten Links. Diese habe ich aber schon während dem Skizzieren als überflüssig ausgemacht, da dazu auch meine zweite Ansicht (oben rechts) verwendet werden kann.
 \subsection{Papierprototyp – Felix Richter}
 \begin{center}
@@ -645,6 +647,8 @@ Um einen neuen Transport zu erstellen muss zunächst der zu entlassene Patient a
 
 Beim Klick auf „Entlassung“ werden die personenbezogenen Daten des Patienten aus der elektronischen Patientenakte in den Transportschein übernommen. Nun kann der Nutzer die restlichen Inhalte des Transportschein ausfüllen, die relevanten Inhalte an den Transportdienstleister übermitteln und den Transportschein drucken. Der Transport wird gespeichert und anschließend auf der Startseite angezeigt. Jeder Transport kann nachträglich bearbeitet oder wieder storniert werden.
 \section{Axure Prototyp}
+Link zu unserem finalen Prototypen: \href{https://op7yur.axshare.com/#p=home_1&g=1}{https://op7yur.axshare.com/\#p=home\_1\&g=1}\\
+\\
 Ansprechende Designvorlagen sind in Axure RP 9 leider meist kostenpflichtig. Daher haben wir uns entschlossen unseren Axure Prototypen auf Basis des zuvor mit draw.io skizzieren Prototyps umzusetzen. Wir mussten in Axure neben der Navigationszeile somit nur noch die Klick-, Such- und Datenhaltungsfunktionen implementieren.
 \subsection{gemeinsamer Axure Prototyp}
 \subsubsection{Startseite}
@@ -747,6 +751,9 @@ Den eben vorgestellten Axure Prototyp haben wir in den Krankenhäusern St. Josef
 Den Usabilitytest haben Florian Klamer und Thomas Zenger am 18.12.19 auf Station 5 des St. Josef Krankenhauses durchgeführt.\\
 Als Testperson stand uns wieder Frau Arndt, eine der beiden stationsleitenden Krankenschwestern, zur Verfügung.\\
 Wir haben ihr, möglichst ohne Hilfe, die oben erwähnten vier Aufgaben gestellt und ihre Reaktion auf Video aufgezeichnet.\\
+\\
+Unter folgendem Link ist das Video zu sehen:\\
+\href{https://youtu.be/GLtEaynibSg}{https://youtu.be/GLtEaynibSg}\\
 \paragraph{Fall 0:}\leavevmode\\
 Diese Aufgabe dient als ``Aufwärmaufgabe'', um die Testperson an den Prototyp heranzuführen. Die Aufgabe lautet wie folgt:\\
 
@@ -835,6 +842,9 @@ Axure ist mit Sicherheit ein gutes Tool für Benutzer, die wenig bis keine Progr
 
 Aufgrund der nur teilweise implementierten oder sinngemäß abgebildete Funktionen konnte sich der Benutzer nicht wirklich vorstellen, wie ein vollständig funktionierendes System arbeiten würde. Dies ist selbstverständlich auch dem generell nicht besonders ausgeprägtem Technikverständnis und der fehlenden Affinität des Personals zu neuen Prozessen geschuldet.
 \section{Finaler Axure Prototyp}
+
+Link zu unserem finalen Prototypen: \href{https://op7yur.axshare.com/#p=home_1&g=1}{https://op7yur.axshare.com/\#p=home\_1\&g=1}\\
+\\
 Die Startseite des Prototypen blieb, aufgrund des positiven Feedbacks, unverändert. Eine grundlegende Überarbeitung erfuhr die Ansicht für die Planung der Transporte.
 \begin{figure}[h]
 \centering
